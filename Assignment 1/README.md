@@ -49,6 +49,10 @@ After we have a functional testing platform for implementing features both on th
 - Input Form
 - Output / History
 
+#### Abhinav Krothapalli
+
+One of my initial thoughts is to first sort out what tasks should be developed in the front end and back end. For example, tasks like the client login and/or registration, client profile management, and fuel quote form will be made in the front end because of how the client will need to interact with these. Once the client inputs the information for those tasks, the information can then be stored in a database. The pricing module will be doing all of the calculations in the back end and send the fuel quote history back through the front end for the client to see. In terms of what languages to use for this, I agree with Ryan in that we should decide on something that we are all comfortable with.
+
 ### 2. Discuss what development methodology you will use and why? (2 points)
 
 #### Suryansh Sharma
@@ -59,6 +63,10 @@ its also meant for projects like this because we can easily split up step in the
 #### Ryan Ball
 
 I agree Agile will be a great approach. Many hands will be woring simulataneously on the same project and splitting it into multiple smaller modules would be beneificial to have speedier turnaround on the project.
+
+#### Abhinav Krothapalli
+
+I think having a mix of the Waterfall method and the Agile method would be best. The reason for the Waterfall method is because we will be working on this project in a very linear manner as we are starting off with the structure/planning then will be moving on to building the front end and back end. Waterfall method is good in these cases where all of the steps build off each other and the requirements of the projects stay static. The agile method is good for splitting the parts up as already stated.
 
 ### 3. Provide high level design / architecture of your solution that you are proposing? (6 points)
 
